@@ -37,7 +37,6 @@ while ulang == 'y':
     #Tampilkan inputan
     nama = input('Nama                  :')
     gol = input('Golongan              :')
-
     gen = input('Jenis Kelamin(L/P)    :')
     sts = input('Status Kawin(S/B)     :')
     print()
